@@ -1,0 +1,12 @@
+{
+    "/Game/FactoryGame/Buildable/Building/Foundation/FicsitSet/Build_QuarterPipeMiddleInCorner_Ficsit_8x1.Build_QuarterPipeMiddleInCorner_Ficsit_8x1_C": {
+        "scale": 1,
+        "forms": [
+            {
+                "points": [
+                    [400,-400], [-400,-400], [-400,400], [0,400], [5,325], [35,235], [75,165], [115,115], [165,75], [235,35], [325,5], [400,0]
+                ]
+            }
+        ]
+    }
+}

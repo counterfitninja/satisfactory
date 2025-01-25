@@ -1,0 +1,12 @@
+{
+    "/Game/FactoryGame/Buildable/Building/Foundation/FicsitSet/Build_QuarterPipeMiddleOutCorner_Ficsit_4x1.Build_QuarterPipeMiddleOutCorner_Ficsit_4x1_C": {
+        "scale": 1,
+        "forms": [
+            {
+                "points": [
+                    [-200,-200], [200,-200], [195,-125], [160,-25], [130,25], [85,85], [25,130], [-25,160], [-125,195], [-200,200]
+                ]
+            }
+        ]
+    }
+}
